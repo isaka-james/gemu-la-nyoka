@@ -1,6 +1,8 @@
 # Gemu La Nyoka
 
-![Snake Game](https://img.shields.io/badge/snake-game-blue)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=isaka-nyoka&label=Nyoka%20Game&color=0e75b6&style=flat" alt="since 04 Sep,2024" />
+</p>
 
 **Gemu La Nyoka** is a classic snake game implemented in Rust. The goal is to guide the snake to eat food, grow longer, and avoid colliding with itself or the walls. This project demonstrates basic game development principles using Rust.
 
